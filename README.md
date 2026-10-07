@@ -8,5 +8,4 @@ Desarrollador de software, Maestro Mayor de Obras y Director de Operaciones en G
 * **Infraestructura:** Proyectos ejecutivos, AutoCAD, Cómputo métrico y Dirección de Obras (MMO) [refe.educacion.gob.ar/v/866317n7sdU17fODIhT1VL](https://refe.educacion.gob.ar/v/866317n7sdU17fODIhT1VL).
 
 ---
-* 🌐 **Website:** [gantunez.dev](https://gantunez.dev)
 * 💼 **LinkedIn:** [linkedin.com/in/gantunez-dev](https://www.linkedin.com/in/gantunez-dev)
